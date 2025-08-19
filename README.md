@@ -1,66 +1,78 @@
-# Hva er dette? 🤔
+# 📅 Kalenderabonnement for Kodeklubben
 
-Hosting av klubbens iCal-filer for Kodeonsdag og andre arrangementer.  
-Her finner du lenker du kan bruke for å abonnere på kalenderen direkte i Outlook, Apple Calendar, Google Calendar eller din favoritt kalenderapp!
-
----
-
-## 📅 Abonnere på kalendere
-
-Når du **abonnerer** på en iCal-fil vil kalenderen oppdateres automatisk når vi legger til eller endrer arrangementer.  
-Bruk lenkene under og følg instruksjonene for din plattform.
+Her finner du lenker til iCal-filer for Kodeonsdag og andre arrangementer.  
+Ved å abonnere på kalenderen får du **automatisk oppdatering** når arrangementer legges til eller endres.  
 
 ---
 
-### 🖥️ Windows (Outlook)
-1. Åpne Outlook.
-2. Gå til **Fil** → **Kontoinnstillinger** → **Abonner på Internett-kalender**.
-3. Lim inn URL-en til `.ics`-filen (se under).
-4. Klikk **Legg til** → Gi kalenderen et navn → **OK**.
+## 🔗 Hvordan abonnere?
+
+Velg din plattform under og følg instruksjonene. Husk å bruke **lenken til .ics-filen** (ikke last ned filen manuelt).
 
 ---
 
-### 🍎 Mac (Apple Calendar)
-1. Åpne **Kalender**-appen.
-2. Gå til **Arkiv** → **Nytt kalenderabonnement**.
-3. Lim inn URL-en til `.ics`-filen.
-4. Klikk **Abonner**.
-5. Velg oppdateringsfrekvens (f.eks. “hver dag”) → **OK**.
+## 📂 Kalenderlenker
+
+### Høst 2025
+
+**Bergen**:
+```css
+https://hubbel-kodeklubb.github.io/events/kalendere/2025/autumn/kodeonsdag_bergen.ics
+```
+
+**Os**:
+```css
+https://hubbel-kodeklubb.github.io/events/kalendere/2025/autumn/kodeonsdag_os.ics
+```
+---
+
+### 🖥️ Outlook (Windows)
+1. Åpne **Outlook**.  
+2. Gå til **Fil → Kontoinnstillinger → Abonner på Internett-kalender**.  
+3. Lim inn URL-en til kalenderen.  
+4. Klikk **Legg til**, gi den et navn og trykk **OK**.  
+
+---
+
+### 🍎 Apple Calendar (Mac)
+1. Åpne **Kalender**-appen.  
+2. Velg **Arkiv → Nytt kalenderabonnement**.  
+3. Lim inn URL-en.  
+4. Velg hvor ofte den skal oppdateres (f.eks. daglig) → **OK**.  
 
 ---
 
 ### 📱 iPhone / iPad (iOS)
-1. Gå til **Innstillinger** → **Kalender** → **Kontoer** → **Legg til konto** → **Annen**.
-2. Velg **Legg til abonnementskalender**.
-3. Lim inn URL-en til `.ics`-filen.
-4. Trykk **Neste** → **Arkiver**.
+1. Gå til **Innstillinger → Kalender → Kontoer → Legg til konto → Annen**.  
+2. Velg **Legg til abonnementskalender**.  
+3. Lim inn URL-en → **Neste** → **Arkiver**.  
 
 ---
 
-### 🤖 Android (Google Calendar)
-1. Åpne [Google Kalender i nettleseren](https://calendar.google.com) på PC.
-2. Klikk **+** ved siden av "Andre kalendere" → **Fra URL**.
-3. Lim inn URL-en til `.ics`-filen.
-4. Klikk **Legg til kalender**.
-5. Kalenderen vil deretter synkroniseres til Google Calendar-appen på mobilen din.
+### 🤖 Google Calendar (Android / Nett)
+1. Åpne [Google Kalender i nettleseren](https://calendar.google.com) på PC.  
+2. Klikk **+** ved "Andre kalendere" → **Fra URL**.  
+3. Lim inn URL-en → **Legg til kalender**.  
+4. Kalenderen synkroniseres automatisk til appen på mobilen din.  
+
 
 ---
 
-## 📂 Oversikt over kalendere
-
-### Høst 2025
-
-#### Os  
-https://hubbel-kodeklubb.github.io/events/kalendere/2025/autumn/kodeonsdag_os.ics
-
-#### Bergen  
-https://hubbel-kodeklubb.github.io/events/kalendere/2025/autumn/kodeonsdag_bergen.ics
+## 💡 Tips
+- Abonner via **lenken** for å få oppdateringer (ikke importer filen manuelt).  
+- Du kan legge til flere kalendere (f.eks. både Os og Bergen).  
+- Oppdateringer skjer automatisk når programmet endres.  
 
 ---
 
-## ℹ️ Tips
-- Hold deg til lenken (ikke last ned filen og importer manuelt) hvis du vil ha **automatiske oppdateringer**.  
-- Du kan abonnere på flere kalendere samtidig (f.eks. både Os og Bergen).
-- Kalenderne oppdateres når programmet endres.
+## 🤝 Bidra
 
----
+Fant du en feil eller mangler det en kalender?  
+Du kan bidra ved å lage en **Pull Request (PR)**:  
+
+1. Gå til [GitHub-repoet](https://github.com/hubbel-kodeklubb/events).  
+2. Opprett en ny branch med endringen din.  
+3. Gjør justeringer i kalenderfilene eller dokumentasjonen.  
+4. Lag en PR slik at endringen kan bli vurdert og lagt inn.  
+
+Slik hjelper du alle med å ha oppdatert og korrekt kalender! 🚀
