@@ -1,3 +1,8 @@
+---
+layout: default
+title: Kalenderabonnement
+---
+
 # Hva er dette? 🤔
 
 Hosting av klubbens iCal-filer for Kodeonsdag og andre arrangementer.  
@@ -50,11 +55,11 @@ Bruk lenkene under og følg instruksjonene for din plattform.
 
 ### Høst 2025
 
-#### Os  
-https://hubbel-kodeklubb.github.io/events/kalendere/2025/autumn/kodeonsdag_os.ics
+- #### Os  
+  https://hubbel-kodeklubb.github.io/events/kalendere/2025/autumn/kodeonsdag_os.ics
 
-#### Bergen  
-https://hubbel-kodeklubb.github.io/events/kalendere/2025/autumn/kodeonsdag_bergen.ics
+- #### Bergen  
+  https://hubbel-kodeklubb.github.io/events/kalendere/2025/autumn/kodeonsdag_bergen.ics
 
 ---
 
@@ -64,3 +69,5 @@ https://hubbel-kodeklubb.github.io/events/kalendere/2025/autumn/kodeonsdag_berge
 - Kalenderne oppdateres når programmet endres.
 
 ---
+
+<p style="margin-top:2rem; font-size:0.9rem; opacity:0.8;">Tema: jekyll-theme-slate (mørk). Du kan endre til <code>jekyll-theme-midnight</code> i <code>_config.yml</code> hvis du heller vil ha et annet mørkt tema.</p>

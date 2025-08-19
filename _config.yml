@@ -1,0 +1,24 @@
+title: Hubbel Kodeklubb – Kalendere
+description: Abonner på klubbens iCal-filer for Kodeonsdag og andre arrangementer
+# A dark theme supported by GitHub Pages
+# See: https://pages.github.com/themes/
+# Midnight or Slate are dark; Slate offers a clean, modern look.
+# You can switch to `jekyll-theme-midnight` if you prefer.
+theme: jekyll-theme-midnight
+
+# Optional: nice SEO/meta without extra setup (supported by GitHub Pages)
+plugins:
+  - jekyll-seo-tag
+
+# Site options
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# URLs (GitHub Pages will infer these; you can set them explicitly if you like)
+# url: "https://hubbel-kodeklubb.github.io"
+# baseurl: "/events"
+
+# Navigation (the slate theme uses a header with site.title)
+# Additional links can be added in index.md content.
