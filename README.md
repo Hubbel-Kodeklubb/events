@@ -1,4 +1,4 @@
-# Events
+# Hva er dette? 🤔
 
 Hosting av klubbens iCal-filer for Kodeonsdag og andre arrangementer.  
 Her finner du lenker du kan bruke for å abonnere på kalenderen direkte i Outlook, Apple Calendar, Google Calendar m.m.
