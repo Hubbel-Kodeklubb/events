@@ -18,16 +18,16 @@ Velg din plattform under og følg instruksjonene. Husk å bruke **lenken til .ic
 
 ## 📂 Kalenderlenker
 
-### Høst 2025
+### Vår 2026
 
 **Bergen**:
 ```css
-https://hubbel-kodeklubb.github.io/events/kalendere/2025/autumn/kodeonsdag_bergen.ics
+https://hubbel-kodeklubb.github.io/events/kalendere/2026/spring/kodeonsdag_bergen.ics
 ```
 
 **Os**:
 ```css
-https://hubbel-kodeklubb.github.io/events/kalendere/2025/autumn/kodeonsdag_os.ics
+https://hubbel-kodeklubb.github.io/events/kalendere/2026/spring/kodeonsdag_os.ics
 ```
 
 ---
