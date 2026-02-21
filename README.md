@@ -16,13 +16,13 @@ Velg din plattform under og følg instruksjonene. Husk å bruke **lenken til .ic
 **Bergen**:
 
 ```css
-https: //hubbel-kodeklubb.github.io/events/calendars/hubbel_os.ics;
+https://hubbel-kodeklubb.github.io/events/calendars/hubbel_bergen.ics
 ```
 
 **Os**:
 
 ```css
-https: //hubbel-kodeklubb.github.io/events/calendars/hubbel_bergen.ics;
+https://hubbel-kodeklubb.github.io/events/calendars/hubbel_os.ics
 ```
 
 ---
